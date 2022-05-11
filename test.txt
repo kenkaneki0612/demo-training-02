@@ -1,1 +1,2 @@
 Tìm log của một file đã bị chỉnh sửa bởi tui :>
+Và bây giờ tui lấy lại file trước đó.
